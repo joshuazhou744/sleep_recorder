@@ -2,11 +2,14 @@ Sleep Recorder:
 
 Startup:
 
-1. install all dependencies in requirements.txt of both gui and backend
+1. install all dependencies in requirements.txt of both gui and backend:
 
-2. pull up 2 cli's, one in gui, one in backend
+  pip install -r requirements.txt
+  (for backend only)
 
-3. run in backend:
+3. pull up 2 cli's, one in gui, one in backend
+
+4. run in backend:
 
 source .venv/bin/activate
 
