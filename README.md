@@ -1,4 +1,4 @@
-Sleep Recorder:
+Sleep Recorder: records coughs and snores
 
 Startup:
 
