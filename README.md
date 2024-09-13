@@ -5,7 +5,10 @@ Startup:
 1. install all dependencies in requirements.txt of both gui and backend:
 
   pip install -r requirements.txt
-  (for backend only)
+  (in backend)
+
+  npm i axios
+  (in gui)
 
 3. pull up 2 cli's, one in gui, one in backend
 
