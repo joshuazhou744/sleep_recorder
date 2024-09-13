@@ -1,0 +1,6 @@
+numpy
+pydantic
+fastapi
+uvicorn
+soundfile
+sounddevice
