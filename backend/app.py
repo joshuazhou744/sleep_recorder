@@ -28,7 +28,7 @@ if not os.path.exists(audio_dir):
 
 duration = 5 # [] second recording chunks
 sample_rate = 44100  # samples of a waveform per second to create an accurate signal
-energy_threshold = 0.006  # volume threshold to record
+energy_threshold = 0.1  # volume threshold to record
 
 audio_files = []
 recording_active = False
