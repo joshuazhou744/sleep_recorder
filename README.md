@@ -2,16 +2,20 @@ Sleep Recorder: records coughs and snores
 
 Startup:
 
-1. install all dependencies in requirements.txt of both gui and backend:
+1. run in backend:
+
+source .venv/bin/activate
+
+2. install all dependencies in requirements.txt of both gui and backend:
 
   pip install -r requirements.txt
-  (for backend only)
+  (in backend)
+
+  npm i axios
+  (in gui)
 
 3. pull up 2 cli's, one in gui, one in backend
 
-4. run in backend:
-
-source .venv/bin/activate
 
 4. run in gui:
 
